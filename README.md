@@ -15,17 +15,7 @@ SoulJars 的灵感来源于著名模组 [SoulShards](https://www.curseforge.com/
 
 ## 下载 SoulJars
 
-你可以在这里下载SoulJars: [下载SoulJars](https://builds.guizhanss.net/ybw0014/SoulJars-CN/master)
-
-<p align="center">
-  <a href="https://github.com/ybw0014/SoulJars-CN/actions/workflows/maven.yml">
-    <img src="https://github.com/ybw0014/SoulJars-CN/actions/workflows/maven.yml/badge.svg" alt="Java CI"/>
-  </a>
-
-  <a href="https://builds.guizhanss.net/ybw0014/SoulJars-CN/master">
-    <img src="https://builds.guizhanss.net/f/ybw0014/SoulJars-CN/master/badge.svg" alt="Build status"/>
-  </a>
-</p>
+[下载 SoulJars](https://resources.guizhanss.com/plugin/SoulJars)
 
 ## Discord
 
